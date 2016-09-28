@@ -1,5 +1,3 @@
-# Trivia-cities-game
+Android and JAVA projects
 
-©Maor zdaka and Neora mesika
-
-march 2016
+©Maor zdaka
